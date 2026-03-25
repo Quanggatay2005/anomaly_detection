@@ -30,13 +30,13 @@ Dự án này ứng dụng mô hình học sâu Autoencoder để phát hiện c
 - pip install -r requirements.txt
 - Tải bộ dữ liệu và đưa 2 file thứ Hai và thứ năm vào cùng 1 folder: https://cicresearch.ca/CICDataset/CIC-IDS-2017/browse.php?p=CIC-IDS-2017%2FCSVs
 
-### Huấn luyện mô hình: 
+### Chạy mô hình: 
 - chạy file main.ipynb
 
 📊 Kết quả đối với mức threshold > 94%
-✅ Tấn công phát hiện đúng (TP): 34/36
-❌ Tấn công bỏ sót (FN)       : 2
-⚠️ Báo động giả (FP)          : 17270 (Số lượng Benign bị bắt nhầm)
+- ✅ Tấn công phát hiện đúng (TP): 34/36
+- ❌ Tấn công bỏ sót (FN)       : 2
+- ⚠️ Báo động giả (FP)          : 17270 (Số lượng Benign bị bắt nhầm)
 ------------------------------
 - Recall    : 0.9444
 - Precision : 0.0020
