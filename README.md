@@ -38,9 +38,13 @@ Dự án này ứng dụng mô hình học sâu Autoencoder để phát hiện c
 ❌ Tấn công bỏ sót (FN)       : 2
 ⚠️ Báo động giả (FP)          : 17270 (Số lượng Benign bị bắt nhầm)
 ------------------------------
-Recall    : 0.9444
-Precision : 0.0020
-F1-Score  : 0.0039
+- Recall    : 0.9444
+- Precision : 0.0020
+- F1-Score  : 0.0039
 
 Biểu đồ phân phối sai số tái tạo cho thấy sự khác biệt rõ rệt giữa dữ liệu bình thường và dữ liệu có nguy cơ rò rỉ.
+
+### Một số hình ảnh
+![Biểu đồ thể hiện MSE](image/plot-green.png)
+![Biểu đồ thể hiện các nhãn exfiltration](image/plot-yellow.png)
 
