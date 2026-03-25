@@ -24,14 +24,14 @@ Dự án này ứng dụng mô hình học sâu Autoencoder để phát hiện c
 
 🛠 Cài đặt và Sử dụng
 ### Clone repository:
-git clone https://github.com/Quanggatay2005/anomaly_detection.git
-cd anomaly_detection
+- git clone https://github.com/Quanggatay2005/anomaly_detection.git
+- cd anomaly_detection
 ### Cài đặt môi trường:
-pip install -r requirements.txt
-Tải bộ dữ liệu và đưa 2 file thứ Hai và thứ năm vào cùng 1 folder: https://cicresearch.ca/CICDataset/CIC-IDS-2017/browse.php?p=CIC-IDS-2017%2FCSVs
+- pip install -r requirements.txt
+- Tải bộ dữ liệu và đưa 2 file thứ Hai và thứ năm vào cùng 1 folder: https://cicresearch.ca/CICDataset/CIC-IDS-2017/browse.php?p=CIC-IDS-2017%2FCSVs
 
 ### Huấn luyện mô hình: 
-chạy file main.ipynb
+- chạy file main.ipynb
 
 📊 Kết quả đối với mức threshold > 94%
 ✅ Tấn công phát hiện đúng (TP): 34/36
