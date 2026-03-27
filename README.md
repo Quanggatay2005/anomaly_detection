@@ -48,3 +48,6 @@ Biểu đồ phân phối sai số tái tạo cho thấy sự khác biệt rõ r
 ![Biểu đồ thể hiện MSE](image/plot-green.png)
 ![Biểu đồ thể hiện các nhãn exfiltration](image/plot-yellow.png)
 
+### Bản demo có dashboard (to be updated): 
+- Thực hiện demo một cuộc rò rỉ mạng giữa hai máy victim và attacker. Máy victim sử dụng hệ điều hành windows, máy attacker được chạy trên oracle virtualbox (kali linux). Chi tiết hơn về báo cáo xin liên hệ mquang1305@gmail.com
+- https://drive.google.com/file/d/1JVXpbGi9GgqJyCP3GEMmjvn1vMRbDjXJ/view?usp=sharing
